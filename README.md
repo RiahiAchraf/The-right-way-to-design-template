@@ -1,6 +1,6 @@
 # The-right-way-to-design-template
 
-The Right Way To Design Template 
+The Right Way To Design Template :
 
 - HTML
 - CSS
